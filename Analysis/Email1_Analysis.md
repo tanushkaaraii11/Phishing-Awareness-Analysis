@@ -8,8 +8,10 @@ A phishing email impersonating the State Bank of India (SBI) attempts to trick u
 
 **Sender**
 support@sbi-securityverify.com
+
 **Subject**
 URGENT: Your SBI Account Has Been Suspended
+
 **Suspicious URL**
 https://sbi-securityverify.com/login
 
@@ -52,6 +54,7 @@ If the victim enters their credentials, the attacker could:
 
 # 7. Risk Assessment
 **Risk Level:**  Critical
+
 **Reason:**
 The phishing email targets banking credentials, which could result in severe financial loss and compromise sensitive personal information.
 

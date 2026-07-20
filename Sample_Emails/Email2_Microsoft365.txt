@@ -1,0 +1,28 @@
+---------------------------------------------------------
+
+From:
+security@micr0soft365-support.com
+
+To:
+employee@company.com
+
+Subject:
+Action Required: Your Microsoft 365 Password Expires Today
+
+---------------------------------------------------------
+
+Dear Employee,
+
+Your Microsoft 365 password is scheduled to expire today.
+
+To avoid interruption of your email and Office services, please verify your account immediately using the secure link below.
+
+https://micr0soft365-support.com/verify
+
+Failure to verify your account within the next 2 hours will result in permanent suspension of your mailbox.
+
+Thank you,
+
+Microsoft Security Team
+
+---------------------------------------------------------
