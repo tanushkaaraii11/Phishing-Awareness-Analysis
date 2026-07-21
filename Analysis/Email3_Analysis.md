@@ -22,7 +22,7 @@ The primary objective of this phishing email is to trick the recipient into visi
 
 ### 1. Domain Verification
 
-The sender's email address does not belong to Amazon's official domain. Amazon uses the official domain **amazon.com** for its services and email communications. Instead, the sender uses a spoofed (look-alike) domain, **delivery@amazon-packagecenter.com**, to appear legitimate and deceive recipients.
+The sender's email address does not belong to Amazon's official domain. Amazon uses the official domain **amazon.com** for its services and email communications. Instead, the sender uses a spoofed/look-alike domain, **delivery@amazon-packagecenter.com**, to appear legitimate and deceive recipients.
 The domain is designed to imitate Amazon's branding and trick users into believing the email is genuine.
 
 ### 2. Email Authenticity
@@ -49,6 +49,7 @@ The attacker uses multiple social engineering techniques to manipulate the recip
 - **Financial Pressure:** States that additional delivery charges may apply if no action is taken.
 
 ### 6. Risk Assessment
+
 **Risk Rating:** Critical
 
 This email is classified as **Critical** because it attempts to steal Amazon account credentials through a phishing link. If the victim enters their login credentials, the attacker could gain unauthorized access to the Amazon account.
@@ -67,6 +68,7 @@ A successful phishing attack could allow the attacker to gain unauthorized acces
 - Use the stolen information for identity theft or future phishing attacks.
 
 ### 8. Incident Response
+
 If this email is received, the user should:
 
 - Do not click on the embedded link.
