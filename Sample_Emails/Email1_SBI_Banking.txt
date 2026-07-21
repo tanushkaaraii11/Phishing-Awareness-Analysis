@@ -1,0 +1,22 @@
+---------------------------------------------------------
+From:
+support@sbi-securityverify.com
+
+To:
+customer@email.com
+
+Subject:
+Urgent: Your SBI Account Has Been Suspended
+---------------------------------------------------------
+
+Dear Customer,
+
+We detected unusual activity on your State Bank of India account.
+To protect your account, we have temporarily suspended your online banking access.
+Please verify your identity immediately by clicking the secure link below:
+https://sbi-securityverify.com/login
+Failure to verify your account within 24 hours may result in permanent suspension of your online banking services.
+
+Thank you,
+SBI Security Team
+---------------------------------------------------------
