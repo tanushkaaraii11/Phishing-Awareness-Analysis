@@ -1,0 +1,20 @@
+---------------------------------------------------------
+From:
+delivery@amazon-packagecenter.com
+
+To:
+customer@email.com
+
+Subject:
+Your Amazon Package Could Not Be Delivered
+---------------------------------------------------------
+
+Dear Customer,
+We attempted to deliver your Amazon package today, but the delivery was unsuccessful due to an incorrect delivery address.
+To avoid your package being returned to the sender, please confirm your delivery details within the next 12 hours using the secure link below.
+https://amazon-packagecenter.com/confirm-delivery
+If no action is taken within 12 hours, your package will be returned and additional delivery charges may apply.
+
+Thank you,
+Amazon Delivery Team
+---------------------------------------------------------
