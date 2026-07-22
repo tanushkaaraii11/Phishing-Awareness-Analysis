@@ -1,0 +1,30 @@
+---------------------------------------------------------
+From:
+security@linkedin-accountsupport.com
+
+To:
+user@email.com
+
+Subject:
+New Sign-in Detected on Your LinkedIn Account
+---------------------------------------------------------
+
+Hello,
+
+We detected a new sign-in to your LinkedIn account from an unrecognized device.
+
+Location:
+Singapore
+
+Time:
+03:17 AM
+
+If this was you, no further action is required.
+If you do not recognize this activity, please secure your account immediately by verifying your identity below.
+https://linkedin-accountsupport.com/verify
+Failure to verify your account within 24 hours may result in temporary account restrictions.
+
+Thank you,
+LinkedIn Trust & Safety Team
+
+---------------------------------------------------------
