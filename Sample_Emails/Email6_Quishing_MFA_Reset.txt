@@ -1,0 +1,24 @@
+---------------------------------------------------------
+From:
+security@company-microsoft365support.com
+
+To:
+employee@company.com
+
+Subject:
+Action Required: Multi-Factor Authentication Reset
+---------------------------------------------------------
+
+Hello,
+
+As part of our quarterly security compliance review, all employees are required to re-register their Multi-Factor Authentication (MFA) before 6:00 PM today.
+To complete the verification process, scan the QR code below using your mobile device.
+
+[ QR CODE ]
+
+If you fail to complete the verification before the deadline, access to Microsoft 365 services including Outlook, Teams, and OneDrive may be temporarily suspended.
+If you have already completed the verification, please ignore this email.
+
+Thank you,
+IT Security Team
+---------------------------------------------------------
