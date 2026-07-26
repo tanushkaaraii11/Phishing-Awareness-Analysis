@@ -1,0 +1,27 @@
+---------------------------------------------------------
+From:
+billing@globaltech-supplies.com
+
+To:
+finance@company.com
+
+Subject:
+Updated Bank Details for Invoice #GT-45821
+---------------------------------------------------------
+
+Dear Finance Team,
+
+We hope you are doing well.
+Please note that due to a recent banking migration, our company has updated its payment account details.
+Kindly ensure that all future payments, including Invoice #GT-45821, are transferred to the new bank account mentioned in the attached document.
+Please update your records immediately to avoid any payment delays.
+If you have any questions, feel free to reply to this email.
+
+Thank you for your cooperation.
+
+Regards,
+David Wilson
+Accounts Manager
+GlobalTech Supplies
+
+---------------------------------------------------------
