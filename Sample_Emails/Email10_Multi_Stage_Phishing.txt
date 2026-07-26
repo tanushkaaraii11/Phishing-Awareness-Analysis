@@ -1,0 +1,30 @@
+---------------------------------------------------------
+From:
+security-notifications@microsoft365-securitycenter.com
+
+To:
+employee@company.com
+
+Subject:
+Urgent: Suspicious Sign-in Detected – Immediate Verification Required
+---------------------------------------------------------
+
+Dear Employee,
+
+Our security systems detected an unusual login attempt from Berlin, Germany.
+To protect your Microsoft 365 account, immediate verification is required.
+
+Step 1:
+Verify your account below:
+https://microsoft365-securitycenter.com/login
+
+Step 2:
+After successful verification, download the Microsoft Security Update Tool to complete device validation.
+https://microsoft365-securitycenter.com/SecurityUpdate.zip
+
+Failure to complete both verification steps within 30 minutes will result in temporary suspension of your account.
+If you believe this notification was sent in error, please contact your IT administrator.
+
+Regards,
+Microsoft Security Center
+---------------------------------------------------------
